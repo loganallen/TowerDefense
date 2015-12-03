@@ -3,6 +3,8 @@ This repository holds all the files used in creating a tower defense game in Pyt
 
 It has some bugs and currently the frame rate on macs limits the game so it seems a bit slow. On Windows the game operates smoothly and as intended (it was made on Windows). I have yet to circumvent this issue. It's currently at a solid version that works fully, but optimization and additions are still needed.
 
+The next aspect of the game I intend to implement is automated defense towers.
+
 Necessary Software:
 >> For MACS:
     - Updated version of python 2
